@@ -2,8 +2,8 @@
 ##This is used for signing in##
 import random 
 prime = 110339
-savedEmail = "liltp84@gmail.com"
-savedPassword = "Alpine84!"
+savedEmail = "email@email.com"
+savedPassword = "IdkIdk"
 salt1 = "tnfccaujnk"
 salt2 = "niejmqfhep"
 
