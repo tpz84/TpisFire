@@ -2,7 +2,7 @@
 ##This is used for signing in##
 import random 
 prime = 110339
-savedEmail = "liltp84@gmail.com"
+savedEmail = "liltp84@email.com"
 savedPassword = "Alpine84!"
 salt1 = "tnfccaujnk"
 salt2 = "niejmqfhep"
