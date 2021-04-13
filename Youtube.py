@@ -61,7 +61,7 @@ def get_playlist_songs(youtube_response, videoID_list, nextPage):
 rap_list = 'tp_rap_list.csv'
 API_KEY = '' #gotta build a key
 JSON = '' #google needs a way to check who you are
-RAP_PLAYLIST = 'PLXE_s8B7Tl11dvJO30C-kQUfNuGnxsLsW' #the playlist ID for google to place the music in
+RAP_PLAYLIST = '' #the playlist ID for google to place the music in
 songs = []
 video_ID = []
 with open(rap_list) as file:
